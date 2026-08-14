@@ -109,5 +109,9 @@ We ask you to decline any monetization or donations for the project, as the proj
 Автор: IGOR02022010
 Проект: Shinkor WebOS Portable
 <hr>
+<br>
+
+
+Почта для жалоб, претензий, расказа о багах, идей для проекта (Не каких сотруднечевств, пожертвований и бесмысленых сообщений не отправляйте): igor98557@yandex.ru
 
 Ссылка на оригинальный проект:    https://github.com/IGOR02022010/SHINKOR-WebOS-Portable-HTML-CSS-JS-
