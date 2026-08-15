@@ -4,7 +4,7 @@
 <hr>
 |  Этот проект не связан с компанией LG и не является официальным продуктом компании и поэтому ЭТО НЕ ПРОДУКТ КОМПАНИИ LG (Если возникнут вопросы то пишите на почту igor98557@yandex.ru )
 |
-|   Чтобы запустить SHINKOR OS, запустите файл RUNinHTM.htm (Через браузер(Лежит в корне архива)), или запустите RUN_WebOS.bat (На Windows)......
+|   Чтобы запустить SHINKOR OS, запустите файл RUNinHTM.htm (Через браузер(Лежит в корне архива)), или запустите RUN_OS.bat (На Windows)......
 |
 |
 | 1) Проект бесплатный и без лицензии..... (Можете делать с ним что угодно)
@@ -17,7 +17,7 @@
 |
 |
 | 3) Есть встроенный HTTP сервер (В корне архива файл RUN_SwServer.py)
-|---- Если хотите чтобы SHINKOR WebOS Portable запускался при запуске ПК (Только Windows), тогда запустите файл .[System_UI]/AvRanADD.bat
+|---- Если хотите чтобы SHINKOR OS Portable запускался при запуске ПК (Только Windows), тогда запустите файл .[System_UI]/AvRanADD.bat
 |-------- А чтобы отменить автозапуск, тогда запустите файл .[System_UI]/AvRanDEL.bat
 |
 |
@@ -25,8 +25,8 @@
 |---- Чтобы создать новое плавающее окно, тогда на физической клавиатуре нажмите ` (Для этого включите английскую раскладку и нажмите на кнопку на которой написано: `~ё)
 |
 | 5) Дополнительная информация находится в .[System_UI]/.[APP;HELPmpiS].htm
-|---- В SHINKOR OS Portable имеется более 34 программ, и всё полностью функционирует, и моя WebOS подходит для начинающий веб-разработчиков как пособие и объект модификаций и может работать вместо Windows (Для этого откройте AvRanADD.bat, а чтобы убрать автозапуск, тогда нажмите на AvRanDEL.bat).
-|-------- И я создавал SHINKOR WebOS Portable с учётом недостаток, например как у eyeOS, а именно такие WebOS нельзя просто открыть в браузере, из за того что они работают на фреймворках и часто на PHP, поэтому я устранил эту проблему чтобы можно было запускать в любом браузере с любого накопителя.
+|---- В SHINKOR OS Portable имеется более 34 программ, и всё полностью функционирует, и моя OS подходит для начинающий веб-разработчиков как пособие и объект модификаций и может работать вместо Windows (Для этого откройте AvRanADD.bat, а чтобы убрать автозапуск, тогда нажмите на AvRanDEL.bat).
+|-------- И я создавал SHINKOR OS Portable с учётом недостаток, например как у eyeOS, а именно такие OS нельзя просто открыть в браузере, из за того что они работают на фреймворках и часто на PHP, поэтому я устранил эту проблему чтобы можно было запускать в любом браузере с любого накопителя.
 <hr>
                 
 <br><br><br>
@@ -39,8 +39,8 @@
 ---- Есть в общем только три операционки:  Start UHON.htm (В виде операционки смартфона),  SEos.htm (Для кнопочных телефонов или старых браузеров) и основная Start SHINKOR.htm (Похожа на виндовс)
 ---- Можно менять обои рабочего стола с помощью файла .SwitchBG.py (Находится в корневом каталоге архива, и создаёт графическое диалоговое окно)
 ---- Структура сделана так, что если где будет ошибка, то вся ВебОС продолжит работать потому что имеет он написан сразу на CSS/JS/HTML (Модулями и несколькими файлами) вместо одного большого Java Scipt файла (Для экономии ОЗУ и для отказоустойчивости, чтобы система работала без задержек и более стабильно)
----- SHINKOR WebOS Portable имеет современный интерфейс благодаря HTML5 и CSS3 продуманному дизайну.
----- Это одна из самых приватных браузерных операционных систем, потому что SHINKOR WebOS Portable не отправляет данные в интернет и не кэширует данные даже при подключённом интернете
+---- SHINKOR OS Portable имеет современный интерфейс благодаря HTML5 и CSS3 продуманному дизайну.
+---- Это одна из самых приватных браузерных операционных систем, потому что SHINKOR OS Portable не отправляет данные в интернет и не кэширует данные даже при подключённом интернете
 ---- Эта браузерная операционная система полностью адаптируется под размер экрана, и поэтому может работать на разных устройствах (Смартфон, планшет, ПК, ноутбук и др.) но пользователь может подогнать размер под себя (Ctrl+, Ctrl- или колесо мыши и Ctrl)
 <hr>
 
@@ -71,14 +71,14 @@ SOFTWARE.
 
 NOTICE:
 This project ("SHINKOR OS Portable") is an independent initiative and is not
-affiliated with, endorsed by, or related to LG Corporation or its WebOS products.
+affiliated with, endorsed by, or related to LG Corporation or its OS products.
 
-The term "WebOS" used in the project name and description refers exclusively to the
+The term "OS" used in the project name and description refers exclusively to the
 concept of a web-based, browser-native operating system environment implemented by
 this project. It is used only as a descriptive term for the nature of the software
 (i.e., an operating system-like interface running entirely in a web browser) and
 does not imply any official connection, endorsement, or relationship with LG Corporation
-or its proprietary WebOS platform. The project contains no proprietary code, assets,
+or its proprietary OS platform. The project contains no proprietary code, assets,
 or technologies owned by LG Corporation.
 We ask you to decline any monetization or donations for the project, as the project is completely free.
 <hr>
