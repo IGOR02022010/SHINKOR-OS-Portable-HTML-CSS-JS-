@@ -114,6 +114,7 @@ We ask you to decline any monetization or donations for the project, as the proj
 
 Почта для жалоб, претензий, рассказа о багах, идей для проекта (Не каких сотрудничеств, пожертвований и бессмысленных сообщений не отправляйте): igor98557@yandex.ru
 <br>
+<br><br>
 <br>
 Ссылки на исходники:
 <hr>
