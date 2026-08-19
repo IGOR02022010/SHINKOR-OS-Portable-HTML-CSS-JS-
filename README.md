@@ -115,8 +115,9 @@ We ask you to decline any monetization or donations for the project, as the proj
 Почта для жалоб, претензий, рассказа о багах, идей для проекта (Не каких сотрудничеств, пожертвований и бессмысленных сообщений не отправляйте): igor98557@yandex.ru
 <br>
 <br>
+Ссылки на исходники:
 <hr>
 Ссылка на оригинальный проект:    https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-<br>
-Ссылка на оригинальный проект в формате EXE-Приложения (Гибрид SHINKOR OS Portable и Iron Browser Portable):    https://disk.yandex.ru/d/lQTyOZhxGhv1Zw
+Ссылка на оригинальный проект в формате EXE-Приложения (Гибрид SHINKOR OS Portable и Iron Browser Portable):    https://disk.yandex.ru/d/lQTyOZhxGhv1Zw    <br>
 Ссылка на релиз проекта: https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-/releases/tag/browser-os
 
