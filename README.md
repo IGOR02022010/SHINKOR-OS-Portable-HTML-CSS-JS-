@@ -1,4 +1,6 @@
+<font size="2"><i>Рабочий стол SHINKOR OS Portable</i></font>
 <img style="        max-width: 100%;  height: auto;" src="https://trashbox.ru/ifiles2/2574507_a4cbb7_snimok_ekrana_14.png-orig.jpg/shinkor-os-portatle-4.webp"  />
+<br>
 
 <h1>Для обычных пользователей:</h1>
 <hr>
