@@ -112,7 +112,7 @@ We ask you to decline any monetization or donations for the project, as the proj
 <hr>
 ├─ Ссылка на оригинальный проект:    <a href="https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-">Перейти на главную страницу</a><br>
 ├─ Ссылка для скачивания проекта:    <a href="https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-/archive/refs/heads/main.zip">Скачать последнюю версию</a><br>
-├─ Ссылка на оригинальный проект в формате EXE-Приложения (Гибрид SHINKOR OS Portable и Iron Browser Portable):    <a href="https://disk.yandex.ru/d/lQTyOZhxGhv1Zw">Скачать с Я.Диска</a><br>
+├─ Ссылка на оригинальный проект в формате EXE-Приложения (SHINKOR OS Portable в браузерной обёртке):    <a href="https://disk.yandex.ru/d/lQTyOZhxGhv1Zw">Скачать с Я.Диска</a><br>
 ├─ Ссылка на релиз проекта:    <a href="https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-/releases/tag/SHINKOR_OS">Перейти к релизу</a>   <br>
 └─ Ссылка для скачивания обновлений SHINKOR OS Portable:    <a href="https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-/tree/main/%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F">Перейти в раздел обновлений</a>
 <br>
