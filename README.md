@@ -1,5 +1,5 @@
 <font size="1"><i>Рабочий стол SHINKOR OS Portable</i></font>
-<img style="        max-width: 100%;  height: auto;" src="[https://trashbox.ru/ifiles2/2574507_a4cbb7_snimok_ekrana_14.png-orig.jpg/shinkor-os-portatle-4.webp](https://trashbox.ru/ifiles2/2579218_55b727_snimok_ekrana_26.png-orig.jpg/brauzernye-operacionnye-sistemy-11.webp)"  />
+<img style="        max-width: 100%;  height: auto;" src="https://trashbox.ru/ifiles2/2579218_55b727_snimok_ekrana_26.png-orig.jpg/brauzernye-operacionnye-sistemy-11.webp"  />
 <br>
 
 <h1>Для пользователей:</h1>
