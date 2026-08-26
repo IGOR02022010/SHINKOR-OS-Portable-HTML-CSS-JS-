@@ -1,8 +1,8 @@
-<font size="2"><i>Рабочий стол SHINKOR OS Portable</i></font>
+<font size="1"><i>Рабочий стол SHINKOR OS Portable</i></font>
 <img style="        max-width: 100%;  height: auto;" src="https://trashbox.ru/ifiles2/2574507_a4cbb7_snimok_ekrana_14.png-orig.jpg/shinkor-os-portatle-4.webp"  />
 <br>
 
-<h1>Для обычных пользователей:</h1>
+<h1>Для пользователей:</h1>
 <hr>
 Этот проект не связан с компанией LG и не является официальным продуктом компании и поэтому ЭТО НЕ ПРОДУКТ КОМПАНИИ LG <br><br>
 Чтобы запустить SHINKOR OS, запустите файл RUNinHTM.htm (Через браузер(Лежит в корне архива)), или запустите RUN_OS.bat (На Windows)......<br><br>
@@ -116,4 +116,10 @@ We ask you to decline any monetization or donations for the project, as the proj
 ├─ Ссылка на релиз проекта:    <a href="https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-/releases/tag/SHINKOR_OS">• Перейти к релизу</a>   <br>
 └─ Ссылка для скачивания обновлений SHINKOR OS Portable:    <a href="https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-/tree/main/%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F">• Перейти в раздел обновлений</a>
 <br>
-
+<br>
+<br><br>
+<br>
+История обновлений начиная с версии 0007:
+<hr>
+├─ SHINKOR OS Portable 0007<a href="https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-/blob/main/%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/%5BShinkor_PWOS250%5D_0007.7z">• Скачать</a>   <br>
+└ Нововведение: появился полноценный файловый менеджер (Работает только в ОЗУ и поэтому имеет очень высокую скорость чтения/записи), появилась возможность быстро перелистывать обои рабочего стола, были доработаны стили плавающего окна (Ctrl+Q), была обновлена библиотека JSzip на более свежую версию, был изменён пакет обоев.<br><br>
