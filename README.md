@@ -121,5 +121,5 @@ We ask you to decline any monetization or donations for the project, as the proj
 <br>
 История обновлений начиная с версии 0007:
 <hr>
-├─ SHINKOR OS Portable 0007<a href="https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-/blob/main/%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/%5BShinkor_PWOS250%5D_0007.7z">• Скачать</a>   <br>
+├─ SHINKOR OS Portable 0007 (<a href="https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-/blob/main/%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/%5BShinkor_PWOS250%5D_0007.7z">• Скачать</a>)  <br>
 └ Нововведение: появился полноценный файловый менеджер (Работает только в ОЗУ и поэтому имеет очень высокую скорость чтения/записи), появилась возможность быстро перелистывать обои рабочего стола, были доработаны стили плавающего окна (Ctrl+Q), была обновлена библиотека JSzip на более свежую версию, был изменён пакет обоев.<br><br>
