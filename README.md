@@ -1,5 +1,5 @@
-<font size="1"><i>Рабочий стол SHINKOR OS Portable</i></font>
-<img style="        max-width: 100%;  height: auto;" src="https://sun9-17.vkuserphoto.ru/s/v1/ig2/DtdlThkXmKRmw_AZaB76lwH_4zLJy3mdmogdF9qVu1Ubxxav8GaGc-TpExHPhw_a8VXtLn9P-4PeO_S-2pPRsVod.jpg?quality=95&crop=0,0,1365,768&as=32x18,48x27,72x40,108x61,160x90,240x135,360x203,480x270,540x304,640x360,720x405,1080x608,1280x720,1365x768&from=bu&u=0xsSYtOrNsUzApqBRKz52Z1j2N7EQiZ-jAuzyvYCGlA&cs=640x0"  />
+<font size="1"><i>Рабочий стол SHINKOR OS Portable</i></font><br>
+<img style="        max-width: 100%;  height: auto;" src="https://sun9-17.vkuserphoto.ru/s/v1/ig2/DtdlThkXmKRmw_AZaB76lwH_4zLJy3mdmogdF9qVu1Ubxxav8GaGc-TpExHPhw_a8VXtLn9P-4PeO_S-2pPRsVod.jpg?quality=95&crop=0,0,1365,768&as=32x18,48x27,72x40,108x61,160x90,240x135,360x203,480x270,540x304,640x360,720x405,1080x608,1280x720,1365x768&from=bu&u=0xsSYtOrNsUzApqBRKz52Z1j2N7EQiZ-jAuzyvYCGlA&cs=1280x0"  />
 <br>
 
 <h1> Информация для пользователей:</h1>
