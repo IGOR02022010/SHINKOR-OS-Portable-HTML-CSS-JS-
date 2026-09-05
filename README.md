@@ -3,6 +3,7 @@
 <br>
 
 <h1> Информация для пользователей:</h1>
+<a href="https://github.com/IGOR02022010/_SHINKOR-OS-DATA/archive/refs/heads/main.zip"> • Скачать с проект в виде архива (Размер: ~14МБ)</a><br>
 <hr>
 Этот проект не связан с компанией LG и не является официальным продуктом компании и поэтому ЭТО НЕ ПРОДУКТ КОМПАНИИ LG <br><br>
 Чтобы запустить SHINKOR OS, запустите файл RUNinHTM.htm (Через браузер(Лежит в корне архива)), или запустите RUN_OS.bat (На Windows)......<br><br>
@@ -119,7 +120,7 @@ We ask you to decline any monetization or donations for the project, as the proj
 <br>
 6) Ссылки на исходники проекта:
 <hr>
-├───── Ссылка на последнюю версию в формате 7Z:    <a href="https://disk.yandex.ru/d/lQTyOZhxGhv1Zw"> • Скачать с Github</a><br>
+├───── Ссылка на последнюю версию в формате 7Z:    <a href="https://github.com/IGOR02022010/_SHINKOR-OS-DATA/archive/refs/heads/main.zip"> • Скачать с Github</a><br>
 ├─── Ссылка на оригинальный проект в формате 7Z:    <a href="https://disk.yandex.ru/d/-RklqhrAqe66Wg"> • Скачать с Я.Диска</a><br>
 ├─── Ссылка на оригинальный проект в формате ZIP:    <a href="https://disk.yandex.ru/d/qTnD7_57-sw4QA"> • Скачать с Я.Диска</a><br>
 ├─── Ссылка на оригинальный проект в формате EXE:    <a href="https://disk.yandex.ru/d/lQTyOZhxGhv1Zw"> • Скачать с Я.Диска</a><br>
