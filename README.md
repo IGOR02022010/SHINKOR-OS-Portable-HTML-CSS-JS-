@@ -39,7 +39,7 @@ SHINKOR OS Portable полностью русскоязычный (Но в не�
 
 <br><br><br>
 3) Сравнение с BJH-OS:
-<hr>
+
 <table>
   <thead>
     <tr>
@@ -71,7 +71,7 @@ SHINKOR OS Portable полностью русскоязычный (Но в не�
   </tbody>
 </table>
 
-        <hr>
+
 <br><br><br>
 
 4) Лицензия:
