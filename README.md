@@ -38,7 +38,20 @@ SHINKOR OS Portable полностью русскоязычный (Но в не�
 <hr>
 
 <br><br><br>
-3) Лицензия:
+3) Сравнение с BJH-OS:
+<hr>
+        <tr><th>SHINKOR OS</th><th>BJH OS</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Размер: ~13мб</td><td>Размер: ~56мб</td></tr>
+        <tr><td>Приложений: &gt;47шт</td><td> Приложений: &gt;27шт</td></tr>
+        <tr><td>Стабильность: 7/10</td><td> Стабильность: 4/10</td></tr>
+        <tr><td>Автономность: 96%</td><td> Стабильность: 83%</td></tr>
+        <tr><td>Отлаженость: Средняя</td><td> Отлаженость: Низкая</td></tr>
+        <hr>
+<br><br><br>
+
+4) Лицензия:
 <hr>
 MIT License
 
@@ -78,7 +91,7 @@ We ask you to decline any monetization or donations for the project, as the proj
 
 
 <br><br><br>
-4) Дополнительная информация:
+5) Дополнительная информация:
 <hr>
 Данный проект предоставляется "КАК ЕСТЬ" без каких-либо гарантий.
 
@@ -106,7 +119,7 @@ We ask you to decline any monetization or donations for the project, as the proj
 <br>
 <br><br>
 <br>
-5) Как SHINKOR OS Portable хранит данные:
+6) Как SHINKOR OS Portable хранит данные:
 <hr>
 ├──── Тип памяти: Гибрид LocalStorage (Для сохранения настроек и системных данных) и RAM (Как виртуальный диск)<br>
 ├── Плюсы: почти нету нагрузки на диск, скорость выше чем у SSD, позволяет быстро работать на слабом железе.<br>
