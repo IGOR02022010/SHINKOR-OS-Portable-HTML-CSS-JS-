@@ -1,7 +1,7 @@
 <font size="1"><i>Рабочий стол SHINKOR OS Portable</i></font><br>
 <img style="        max-width: 100%;  height: auto;" src="https://sun9-17.vkuserphoto.ru/s/v1/ig2/DtdlThkXmKRmw_AZaB76lwH_4zLJy3mdmogdF9qVu1Ubxxav8GaGc-TpExHPhw_a8VXtLn9P-4PeO_S-2pPRsVod.jpg?quality=95&crop=0,0,1365,768&as=32x18,48x27,72x40,108x61,160x90,240x135,360x203,480x270,540x304,640x360,720x405,1080x608,1280x720,1365x768&from=bu&u=0xsSYtOrNsUzApqBRKz52Z1j2N7EQiZ-jAuzyvYCGlA&cs=1280x0"></img>
 <br>
-<a href="https://github.com/IGOR02022010/_SHINKOR-OS-DATA/archive/refs/heads/main.zip"> • Нажмите_чтобы_скачать_проект_в_виде_архива (Размер: ~14МБ)</a><br><br>
+<a href="https://clck.ru/3WRkTN"> • Нажмите_чтобы_скачать_проект_в_виде_архива (Размер: ~14МБ)</a><br><br>
 Яндекс почта автора: igor98557@yandex.ru.txt
 <h1> Информация для пользователей:</h1>
 <hr>
@@ -129,13 +129,10 @@ The term "WebOS" used in the project name and description refers exclusively to 
 <br>
 6) Ссылки на исходники проекта:
 <hr>
-├───── Ссылка на последнюю версию в формате 7Z:    <a href="https://github.com/IGOR02022010/_SHINKOR-OS-DATA/archive/refs/heads/main.zip"> • Скачать с Github</a><br>
-├─── Ссылка на оригинальный проект в формате 7Z:    <a href="https://disk.yandex.ru/d/-RklqhrAqe66Wg"> • Скачать с Я.Диска</a><br>
-├─── Ссылка на оригинальный проект в формате ZIP:    <a href="https://disk.yandex.ru/d/qTnD7_57-sw4QA"> • Скачать с Я.Диска</a><br>
+├───── Ссылка на последнюю версию в формате 7Z:    <a href="https://clck.ru/3WRkTN"> • Скачать с VC</a><br>
 ├─── Ссылка на оригинальный проект в формате EXE:    <a href="https://disk.yandex.ru/d/lQTyOZhxGhv1Zw"> • Скачать с Я.Диска</a><br>
 ├─ Ссылка на оригинальный проект:    <a href="https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-"> • Перейти на главную страницу на GitHub</a><br>
-├─ Ссылка для скачивания проекта:    <a href="https://github.com/IGOR02022010/_SHINKOR-OS-DATA/archive/refs/heads/main.zip"> • Скачать последнюю версию в формате 7Z</a><br>
-└─ Ссылка на релиз проекта:    <a href="https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-/releases/tag/SHINKOR_OS"> • Перейти к релизу на GitHub</a>   <br>
+└─ Ссылка на канал проекта:    <a href="https://vk.ru/im/channels/-242205961?cmid=1"> • Перейти к релизу на GitHub</a>   <br>
  
 <hr>
 <br>
