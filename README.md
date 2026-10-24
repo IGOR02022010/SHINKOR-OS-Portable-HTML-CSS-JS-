@@ -129,7 +129,7 @@ The term "WebOS" used in the project name and description refers exclusively to 
 <br>
 6) Ссылки на исходники проекта:
 <hr>
-├───── Ссылка на последнюю версию в формате 7Z:    <a href="https://clck.ru/3WRkTN"> • Скачать с VK</a><br>
+├───── Ссылка на официальный сайт проекта:    <a href="https://igor02022010.github.io/SOPS/"> • Перейти</a><br>
 ├─── Ссылка на оригинальный проект в формате EXE:    <a href="https://disk.yandex.ru/d/lQTyOZhxGhv1Zw"> • Скачать с Я.Диска</a><br>
 ├─ Ссылка на оригинальный проект:    <a href="https://github.com/IGOR02022010/SHINKOR-OS-Portable-HTML-CSS-JS-"> • Перейти на главную страницу на GitHub</a><br>
 └─ Ссылка на канал проекта:    <a href="https://vk.ru/im/channels/-242205961?cmid=1"> • Перейти в канал в ВК</a>   <br>
