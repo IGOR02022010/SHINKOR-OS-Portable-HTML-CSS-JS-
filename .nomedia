@@ -1,0 +1,42 @@
+import os
+import hashlib
+
+def sha256_file(filepath):
+    """Вычисляет SHA-256 хеш файла."""
+    sha256 = hashlib.sha256()
+    # Читаем файл частями, чтобы не грузить большие файлы целиком в память
+    with open(filepath, "rb") as f:
+        while chunk := f.read(8192):
+            sha256.update(chunk)
+    return sha256.hexdigest()
+
+def main():
+    # Папка, где находится скрипт
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    output_file = os.path.join(base_dir, ".[System_UI]/[SHA-256]/SHA-256_LIST.txt")
+
+    results = []
+
+    # Рекурсивный обход всех файлов в base_dir и подпапках
+    for root, _, files in os.walk(base_dir):
+        for filename in files:
+            filepath = os.path.join(root, filename)
+            # Пропускаем сам выходной файл, чтобы не хешировать его же
+            if os.path.abspath(filepath) == os.path.abspath(output_file):
+                continue
+            try:
+                file_hash = sha256_file(filepath)
+                # Сохраняем относительный путь для читаемости
+                rel_path = os.path.relpath(filepath, base_dir)
+                results.append(f"{rel_path} | {file_hash}")
+            except Exception as e:
+                print(f"Ошибка при обработке файла {filepath}: {e}")
+
+    # Запись в drohh.txt
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(results))
+
+    print(f"Готово! Хеши записаны в {output_file}")
+
+if __name__ == "__main__":
+    main()
