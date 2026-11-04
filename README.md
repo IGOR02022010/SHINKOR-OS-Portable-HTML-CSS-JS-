@@ -1,5 +1,5 @@
 <font size="1"><i>Рабочий стол SHINKOR OS Portable</i></font><br>
-<img style="        max-width: 100%;  height: auto;" src="https://sun9-17.vkuserphoto.ru/s/v1/ig2/DtdlThkXmKRmw_AZaB76lwH_4zLJy3mdmogdF9qVu1Ubxxav8GaGc-TpExHPhw_a8VXtLn9P-4PeO_S-2pPRsVod.jpg?quality=95&crop=0,0,1365,768&as=32x18,48x27,72x40,108x61,160x90,240x135,360x203,480x270,540x304,640x360,720x405,1080x608,1280x720,1365x768&from=bu&u=0xsSYtOrNsUzApqBRKz52Z1j2N7EQiZ-jAuzyvYCGlA&cs=1280x0"></img>
+
 <br>
 <a href="https://clck.ru/3WRkTN"> • Нажмите_чтобы_скачать_проект_в_виде_архива (Размер: ~14МБ)</a><br><br>
 Яндекс почта автора: igor98557@yandex.ru.txt
@@ -106,7 +106,7 @@ The term "WebOS" used in the project name and description refers exclusively to 
 Данный проект предоставляется "КАК ЕСТЬ" без каких-либо гарантий и ограниченний.<br>
 - Проект SHINKOR OS Portable обновляется 1-2 раза в месяц (Исправление ошибок и дороботки)<br>
 - Все версии после 21.10.2026 будут уже готовым продуктом, а все релизы до этой даты ещё не являются продуктом<br>
-- Проект будет в активном состоянии ещё долгое время, более 7 лет включителоьно<br>
+- Проект заморожен но полностью ункционирует, а так советую переходить на HENCORE OS Portable потому что теперь HENCORE OS мой главный проект<br>
 Автор: IGOR02022010<br>
 Проект: Shinkor OS Portable
 <hr>
